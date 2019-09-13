@@ -1,0 +1,271 @@
+body{
+	background-color: black;
+
+}
+
+#logo{
+position: absolute;
+width: 257px;
+height: 150px;
+margin: 124px 0 0 520px;
+	}
+	
+.wrapper{
+position: absolute;
+}
+
+#yvideo{
+position: absolute;
+margin: 500px 0 300px 295px;
+border-width: 0px;
+}
+
+.table {
+	  display: inline-block;  /* Allow the centering to work */
+	
+	margin: 0 0;
+}
+
+.table{
+	color: grey;
+}
+
+#horizontal-list {
+	position: absolute;
+	width: 39px;
+	height: 23px;
+
+	min-width: 696px; 
+	list-style: none;
+	margin: 370px 0 0 400px;
+	white-space: nowrap;
+
+
+font-family: Cambay;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 33px;
+
+
+	}
+
+#horizontal-list li {
+	display: inline-block;
+	margin-right: 100px;
+
+  position: relative;
+ 
+
+	}
+#horizontal-list li a {
+  display: block;
+  color: grey;
+  -webkit-transition: color 0.3s ease-in-out;
+  transition: color 0.3s ease-in-out;
+}
+
+
+
+#horizontal-list li:hover > a,
+#horizontal-list li:focus > a {
+  color: white;
+}
+
+#horizontal-list li.current > a
+{
+  color: white;
+}
+
+
+
+
+
+
+a:hover, a:visited, a:link, a:active 
+{ 
+text-decoration: none; 
+color: grey;
+
+}
+
+
+.MusicVid{
+position: absolute;	
+margin: 371px 100% auto 0;
+
+}
+
+.MusicVid li{
+	display: inline-block;
+}
+
+.img1{
+position: absolute;
+margin: 100px 0 300px 0;
+
+}
+
+.img2{
+position: absolute;
+margin: 100px 340px ;
+
+}
+.img3{
+position: absolute;
+margin: 100px 709px;
+
+}
+.img4{
+position: absolute;
+margin: 100px 1059px ;
+
+}
+
+.img5{
+position: absolute;
+margin: 273px 0 300px 0;
+
+}
+
+.img6{
+position: absolute;
+margin: 273px 340px ;
+
+}
+.img7{
+position: absolute;
+margin: 273px 709px;
+
+}
+.img8{
+position: absolute;
+margin: 273px 1059px ;
+
+}
+
+.img9{
+position: absolute;
+margin: 446px 0 300px 0;
+
+}
+
+.img10{
+position: absolute;
+margin: 446px 340px ;
+
+}
+.img11{
+position: absolute;
+margin: 446px 709px;
+
+}
+.img12{
+position: absolute;
+margin: 446px 1059px ;
+
+}
+.img13{
+position: absolute;
+margin: 619px 0 300px 0;
+
+}
+
+.img14{
+position: absolute;
+margin: 619px 340px ;
+
+}
+.img15{
+position: absolute;
+margin: 619px 709px;
+
+}
+.img16{
+position: absolute;
+margin: 619px 1059px ;
+
+}
+.img17{
+position: absolute;
+margin: 792px 0 300px 0;
+
+}
+
+.img18{
+position: absolute;
+margin: 792px 340px ;
+
+}
+.img19{
+position: absolute;
+margin: 792px 709px;
+
+}
+.img20{
+position: absolute;
+margin: 792px 1059px ;
+
+}
+
+li .img1: hover{
+	background-color: grey;
+	color: grey;
+
+}
+
+.Sugar{
+position: absolute;
+width: 874px;
+height: 439px;
+margin: 500px 0 300px 295px;
+}
+
+
+ .bGimg{
+ 	position: absolute;
+ 	background: grey;
+ 	opacity: 0.7;
+    width: 	874px;
+	height: 439px;
+	margin: 500px 0 0 295px;
+	z-index: 300;
+	
+	 }
+
+div .Smovie{
+	position:absolute;
+   
+    width: 531px;
+	height: 42px;
+	margin: 640px 0 300px 470px;
+
+    text-align: center;
+    
+font-family: Capriola;
+font-style: normal;
+font-weight: normal;
+font-size: 53px;
+line-height: 66px;
+
+color: #FFFFFF;
+z-index: 500;
+
+  
+ }
+
+  .Playmv{
+ position:absolute;
+ width: auto ;
+ height: auto;
+ margin: 750px 0 300px 660px;
+ z-index: 500;
+ opacity: 0.9;
+ }
+
+
+.Sugar:hover .Smovie{
+	display: block;
+}
+ 
+
