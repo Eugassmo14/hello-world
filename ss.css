@@ -1,0 +1,89 @@
+body {
+ background-image: url(./img/bg.png);
+background-position: center;
+width: 0 auto;
+height: 950px;
+left: -66px;
+top: -36px;
+margin-right: 479px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+ 
+ 
+}
+
+
+
+
+#logo{
+position: absolute;
+width: 491px;
+height: 223px;
+margin: 70px 0 0 500px;
+
+}
+
+ .wrapper{
+	position: absolute;
+	margin: 305px 0 0 675px;
+	border-spacing: 50px;
+	}
+
+a:hover, a:visited, a:link, a:active 
+{ 
+text-decoration: none; 
+}
+
+.nav{
+position: absolute;
+
+}
+
+    .rectangle1 {
+    position: absolute;
+     width: 323px;
+	 height: 67px;
+	 margin: 613px 0 0 392px;
+      background: #C20104;
+      border-radius: 17px;
+     
+    }
+
+    .rectangle2{
+    	position: absolute;
+    	width: 323px;
+		height: 67px;
+		margin: 613px 0 0 761px;
+      background: #C20104;
+      border-radius: 17px;
+
+    }
+
+    .rectangle1 p{
+    position: absolute;
+width: 240px;
+height: 38px;
+margin: 14px 0 0 38px;
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 35px;
+line-height: 41px;
+
+color: #FFFFFF;
+    }
+
+    .rectangle2 p{
+    position: absolute;
+width: 240px;
+height: 38px;
+margin: 14px 0 0 116px;
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 35px;
+line-height: 41px;
+
+color: #FFFFFF;
+}
